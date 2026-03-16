@@ -82,43 +82,65 @@ def test_reward_correct_no_sizing_actions(predicted, correct):
     ("bet 10", "check"),
     ("check", "bet 10"),
     ("raise 20", "call"),
-    ("bet 10", "raise 10"),
+    ("fold", "raise 10"),
 ])
-def test_reward_wrong_action_type(predicted, correct):
+def test_reward_completely_wrong_action(predicted, correct):
     assert poker_reward(predicted, correct) == -1.0
 
 
 @pytest.mark.parametrize("predicted,correct", [
-    ("bet 10", "bet 10"),
-    ("raise 20", "raise 20"),
-    ("bet 10", "bet 9"),      # within 20%
-    ("bet 10", "bet 11"),     # within 20%
-    ("raise 10", "raise 12"), # within 20%
+    ("bet 10", "raise 10"),   # same aggression category
+    ("raise 20", "bet 20"),
 ])
-def test_reward_exact_or_near_sizing(predicted, correct):
+def test_reward_partial_credit_aggressive(predicted, correct):
+    assert poker_reward(predicted, correct) == -0.3
+
+
+@pytest.mark.parametrize("predicted,correct", [
+    ("check", "call"),
+    ("call", "check"),
+])
+def test_reward_partial_credit_passive(predicted, correct):
+    assert poker_reward(predicted, correct) == -0.3
+
+
+@pytest.mark.parametrize("predicted,correct", [
+    ("bet 10", "bet 10"),     # exact
+    ("raise 20", "raise 20"),
+    ("bet 10", "bet 11"),     # ratio 0.909 — within 10%
+])
+def test_reward_exact_sizing(predicted, correct):
     assert poker_reward(predicted, correct) == 1.0
 
 
 @pytest.mark.parametrize("predicted,correct", [
-    ("bet 6", "bet 10"),   # 60% — within 50%
-    ("bet 14", "bet 10"),  # 140% — within 50%
-    ("raise 8", "raise 15"),
+    ("bet 10", "bet 9"),      # ratio 1.111 — within 20% but not 10%
+    ("raise 10", "raise 12"), # ratio 0.833 — within 20% but not 10%
 ])
-def test_reward_reasonable_sizing(predicted, correct):
-    assert poker_reward(predicted, correct) == 0.5
+def test_reward_near_sizing(predicted, correct):
+    assert poker_reward(predicted, correct) == 0.7
 
 
 @pytest.mark.parametrize("predicted,correct", [
-    ("bet 1", "bet 10"),   # 10% — too far off
-    ("bet 20", "bet 10"),  # 200% — too far off
+    ("bet 6", "bet 10"),      # ratio 0.6 — within 50%
+    ("bet 14", "bet 10"),     # ratio 1.4 — within 50%
+    ("raise 8", "raise 15"),  # ratio 0.533 — within 50%
+])
+def test_reward_reasonable_sizing(predicted, correct):
+    assert poker_reward(predicted, correct) == 0.4
+
+
+@pytest.mark.parametrize("predicted,correct", [
+    ("bet 1", "bet 10"),      # ratio 0.1 — way off
+    ("bet 20", "bet 10"),     # ratio 2.0 — way off
     ("raise 1", "raise 50"),
 ])
 def test_reward_bad_sizing(predicted, correct):
-    assert poker_reward(predicted, correct) == 0.0
+    assert poker_reward(predicted, correct) == 0.1
 
 
 def test_reward_correct_action_missing_amount():
-    assert poker_reward("bet", "bet 10") == 0.0
+    assert poker_reward("bet", "bet 10") == 0.1
 
 
 def test_reward_whitespace_handling():
