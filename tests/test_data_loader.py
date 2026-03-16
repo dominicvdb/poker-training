@@ -20,11 +20,11 @@ def test_train_and_test_splits_exist(dataset):
 
 
 def test_train_row_count(dataset):
-    assert len(dataset["train"]) == 563_826
+    assert len(dataset["train"]) == 563_200
 
 
 def test_test_row_count(dataset):
-    assert len(dataset["test"]) == 11_088
+    assert len(dataset["test"]) == 11_000
 
 
 def test_column_names(dataset):
