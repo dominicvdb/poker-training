@@ -1,0 +1,11 @@
+data/
+models/
+.cache/
+.ipynb_checkpoints/
+wandb/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
