@@ -3,6 +3,12 @@
 import re
 
 VALID_ACTIONS = ("check", "fold", "call", "bet", "raise")
+_THINK_RE = re.compile(r"<think>.*?</think>", re.DOTALL)
+
+
+def _strip_thinking(text: str) -> str:
+    """Remove Qwen3 <think>...</think> blocks from model output."""
+    return _THINK_RE.sub("", text).strip()
 
 
 def parse_action_type(text: str) -> str | None:
@@ -11,7 +17,7 @@ def parse_action_type(text: str) -> str | None:
     Returns one of: check, fold, call, bet, raise — or None if unrecognisable.
     'all-in' variants are mapped to 'raise'.
     """
-    text = text.strip().lower()
+    text = _strip_thinking(text).lower()
     for action in VALID_ACTIONS:
         if text.startswith(action):
             return action
@@ -26,7 +32,7 @@ def parse_bet_amount(text: str) -> float | None:
     Returns None for check, fold, call (no sizing), and for any output
     where no number can be found.
     """
-    text = text.strip().lower()
+    text = _strip_thinking(text).lower()
     action = parse_action_type(text)
     if action in ("check", "fold", "call"):
         return None
