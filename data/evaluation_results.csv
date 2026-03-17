@@ -1,501 +1,501 @@
-expected,sft_predicted,sft_reward,grpo_predicted,grpo_reward
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-bet 24,check,-1.0,bet 24,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-raise 41,raise 41,1.0,call,-1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 89,raise 89,1.0,raise 89,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-bet 13,bet 13,1.0,bet 13,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,fold,-1.0,fold,-1.0
-raise 30,raise 30,1.0,raise 30,1.0
-raise 11,raise 11,1.0,raise 11,1.0
-raise 29,raise 29,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-raise 83,raise 83,1.0,raise 83,1.0
-raise 33,raise 33,1.0,raise 33,1.0
-raise 93,call,-1.0,call,-1.0
-call,call,1.0,call,1.0
-raise 20.0,raise 20.0,1.0,fold,-1.0
-raise 74,raise 74,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 84,raise 84,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-raise 38,raise 38,1.0,raise 38,1.0
-raise 10,raise 10,1.0,call,-1.0
-bet 4,bet 4,1.0,bet 4,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,raise 57,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 2.5,raise 2.5,1.0,raise 2.5,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 23,bet 23,1.0,bet 23,1.0
-fold,fold,1.0,call,-1.0
-check,check,1.0,bet 18,-1.0
-check,check,1.0,bet 34,-1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 35,raise 35,1.0,raise 35,1.0
-call,fold,-1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 73,fold,-1.0,call,-1.0
-bet 34,bet 34,1.0,bet 34,1.0
-raise 92,raise 92,1.0,raise 92,1.0
-call,call,1.0,call,1.0
-raise 14.0,raise 14.0,1.0,fold,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,check,-1.0
-check,check,1.0,check,1.0
-fold,call,-1.0,fold,1.0
-raise 21.0,raise 21.0,1.0,raise 21.0,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 12,bet 12,1.0,bet 12,1.0
-bet 13,bet 13,1.0,bet 13,1.0
-check,check,1.0,check,1.0
-check,raise 5.0,-1.0,check,1.0
-bet 11,bet 11,1.0,bet 11,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-bet 8,bet 8,1.0,bet 8,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 86,raise 86,1.0,raise 86,1.0
-raise 93,raise 93,1.0,raise 93,1.0
-fold,fold,1.0,fold,1.0
-call,fold,-1.0,fold,-1.0
-check,check,1.0,check,1.0
-bet 29,check,-1.0,check,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-bet 18,bet 18,1.0,bet 18,1.0
-call,call,1.0,call,1.0
-raise 86,raise 86,1.0,raise 37,0.1
-call,fold,-1.0,call,1.0
-bet 11,bet 11,1.0,check,-1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-fold,call,-1.0,call,-1.0
-call,call,1.0,call,1.0
-raise 82,raise 82,1.0,raise 82,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-bet 5,bet 5,1.0,bet 5,1.0
-raise 32,raise 32,1.0,raise 32,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 17,check,-1.0,check,-1.0
-call,raise 86,-1.0,raise 37,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 17,check,-1.0,check,-1.0
-check,bet 17,-1.0,bet 17,-1.0
-raise 2.0,raise 2.0,1.0,raise 2.0,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-raise 10.0,raise 10.0,1.0,call,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-bet 17,bet 17,1.0,bet 17,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-raise 3.0,raise 3.0,1.0,raise 3.0,1.0
-raise 38,raise 38,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,raise 48,-1.0
-raise 88,raise 88,1.0,raise 88,1.0
-fold,fold,1.0,call,-1.0
-call,call,1.0,call,1.0
-raise 80,raise 80,1.0,raise 80,1.0
-check,check,1.0,check,1.0
-raise 38,fold,-1.0,fold,-1.0
-raise 35,call,-1.0,raise 35,1.0
-bet 8,check,-1.0,check,-1.0
-fold,fold,1.0,fold,1.0
-raise 83,raise 83,1.0,raise 83,1.0
-call,raise 83,-1.0,raise 83,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,raise 88,-1.0,call,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 73,raise 73,1.0,check,-1.0
-raise 13,raise 13,1.0,fold,-1.0
-bet 25,check,-1.0,check,-1.0
-raise 37,raise 37,1.0,raise 37,1.0
-check,check,1.0,check,1.0
-raise 10,raise 10,1.0,raise 10,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 10,check,-1.0,check,-1.0
-check,check,1.0,check,1.0
-raise 88,raise 88,1.0,fold,-1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 10,bet 10,1.0,bet 10,1.0
-raise 92,raise 92,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-raise 13.0,raise 13.0,1.0,raise 13.0,1.0
-raise 22,raise 22,1.0,raise 22,1.0
-check,raise 5.0,-1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-raise 45,call,-1.0,call,-1.0
-bet 16,check,-1.0,check,-1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-raise 13,raise 13,1.0,raise 13,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 29,bet 29,1.0,bet 29,1.0
-raise 17,raise 17,1.0,raise 17,1.0
-bet 17,bet 17,1.0,bet 17,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-raise 5.0,raise 3.0,0.4,raise 3.0,0.4
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,bet 10,-1.0,bet 10,-1.0
-bet 29,bet 29,1.0,bet 29,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 74,raise 74,1.0,raise 74,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,raise 79,-1.0,call,-1.0
-fold,fold,1.0,call,-1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-bet 29,bet 29,1.0,bet 29,1.0
-call,call,1.0,call,1.0
-raise 84,raise 84,1.0,raise 84,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-raise 77,raise 77,1.0,raise 77,1.0
-call,call,1.0,call,1.0
-raise 89,raise 89,1.0,raise 89,1.0
-bet 29,bet 29,1.0,check,-1.0
-raise 58,raise 58,1.0,raise 58,1.0
-fold,call,-1.0,fold,1.0
-call,call,1.0,fold,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 17,call,-1.0,call,-1.0
-call,raise 13,-1.0,raise 13,-1.0
-bet 17,bet 17,1.0,check,-1.0
-fold,fold,1.0,fold,1.0
-fold,call,-1.0,call,-1.0
-check,check,1.0,check,1.0
-call,raise 16,-1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-raise 95,call,-1.0,call,-1.0
-check,check,1.0,check,1.0
-raise 84,raise 84,1.0,raise 84,1.0
-check,check,1.0,check,1.0
-raise 16,call,-1.0,call,-1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-raise 77,raise 77,1.0,raise 77,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-call,fold,-1.0,fold,-1.0
-call,call,1.0,call,1.0
-raise 7,raise 7,1.0,raise 7,1.0
-call,call,1.0,call,1.0
-raise 83,raise 83,1.0,raise 44,0.4
-call,call,1.0,call,1.0
-raise 16,raise 16,1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,check,-1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-bet 11,bet 11,1.0,bet 11,1.0
-raise 13,raise 13,1.0,raise 13,1.0
-check,check,1.0,check,1.0
-raise 90,raise 90,1.0,raise 90,1.0
-raise 3.0,raise 3.0,1.0,raise 3.0,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,bet 24,-1.0,bet 24,-1.0
-fold,fold,1.0,fold,1.0
-raise 32,raise 32,1.0,raise 32,1.0
-fold,fold,1.0,fold,1.0
-bet 3,check,-1.0,bet 3,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 18,call,-1.0,call,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-raise 83,raise 83,1.0,raise 44,0.4
-raise 11.0,raise 11.0,1.0,raise 11.0,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-call,call,1.0,fold,-1.0
-raise 25,raise 25,1.0,call,-1.0
-check,raise 73,-1.0,bet 32,-1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-raise 24.3,raise 24.3,1.0,raise 24.3,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 4,bet 4,1.0,check,-1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 16,raise 16,1.0,call,-1.0
-call,raise 95,-1.0,raise 95,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 87,raise 87,1.0,fold,-1.0
-check,check,1.0,check,1.0
-bet 24,bet 24,1.0,check,-1.0
-raise 16,call,-1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-raise 90,raise 90,1.0,raise 90,1.0
-raise 88,raise 88,1.0,raise 88,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 29,bet 29,1.0,bet 29,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 86,call,-1.0,call,-1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 18,bet 18,1.0,bet 18,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 23,bet 23,1.0,bet 23,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-bet 4,check,-1.0,bet 4,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-bet 4,bet 4,1.0,bet 4,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 89,raise 89,1.0,raise 89,1.0
-bet 5,check,-1.0,check,-1.0
-raise 89,raise 89,1.0,raise 89,1.0
-check,check,1.0,check,1.0
-bet 17,bet 17,1.0,bet 17,1.0
-raise 10,raise 10,1.0,raise 10,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-raise 22.9,raise 22.9,1.0,raise 22.9,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,bet 12,-1.0
-raise 85,raise 85,1.0,fold,-1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,call,-1.0
-call,fold,-1.0,fold,-1.0
-raise 74,raise 74,1.0,call,-1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-raise 85,raise 85,1.0,raise 85,1.0
-raise 92,raise 92,1.0,raise 92,1.0
-fold,fold,1.0,fold,1.0
-raise 10,raise 10,1.0,call,-1.0
-check,bet 7,-1.0,check,1.0
-fold,fold,1.0,fold,1.0
-raise 32,call,-1.0,call,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,fold,-1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,check,1.0
-raise 61,raise 61,1.0,raise 57,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-bet 7,check,-1.0,check,-1.0
-raise 11.5,raise 11.5,1.0,raise 11.5,1.0
-check,check,1.0,check,1.0
-check,check,1.0,bet 17,-1.0
-raise 8,call,-1.0,call,-1.0
-raise 14.0,raise 14.0,1.0,raise 14.0,1.0
-call,call,1.0,call,1.0
-raise 22,raise 22,1.0,raise 22,1.0
-call,call,1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-call,raise 93,-1.0,call,1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 89,fold,-1.0,fold,-1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-raise 92,raise 92,1.0,raise 92,1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-raise 10,raise 10,1.0,raise 10,1.0
-call,call,1.0,call,1.0
-raise 84,raise 84,1.0,raise 84,1.0
-raise 92,raise 92,1.0,fold,-1.0
-fold,fold,1.0,fold,1.0
-call,call,1.0,call,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-fold,call,-1.0,call,-1.0
-bet 18,bet 18,1.0,bet 18,1.0
-check,check,1.0,check,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-call,call,1.0,call,1.0
-check,check,1.0,check,1.0
-check,bet 8,-1.0,check,1.0
-fold,fold,1.0,fold,1.0
-check,check,1.0,bet 13,-1.0
-fold,fold,1.0,fold,1.0
-fold,fold,1.0,fold,1.0
-raise 90,raise 90,1.0,raise 90,1.0
-call,call,1.0,call,1.0
+expected,base_predicted,base_reward,sft_predicted,sft_reward,grpo_predicted,grpo_reward
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 24,raise 14,-0.3,check,-1.0,bet 24,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 41,call,-1.0,raise 41,1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 89,call,-1.0,raise 89,1.0,raise 89,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 5,-1.0,check,1.0,check,1.0
+check,bet 6,-1.0,check,1.0,check,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+bet 13,bet 6,0.1,bet 13,1.0,bet 13,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 16,-1.0,check,1.0,check,1.0
+call,call,1.0,fold,-1.0,fold,-1.0
+raise 30,call,-1.0,raise 30,1.0,raise 30,1.0
+raise 11,call,-1.0,raise 11,1.0,raise 11,1.0
+raise 29,call,-1.0,raise 29,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 2.5,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+raise 83,call,-1.0,raise 83,1.0,raise 83,1.0
+raise 33,call,-1.0,raise 33,1.0,raise 33,1.0
+raise 93,call,-1.0,call,-1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+raise 20.0,fold,-1.0,raise 20.0,1.0,fold,-1.0
+raise 74,call,-1.0,raise 74,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 84,call,-1.0,raise 84,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 38,call,-1.0,raise 38,1.0,raise 38,1.0
+raise 10,call,-1.0,raise 10,1.0,call,-1.0
+bet 4,bet 2.3,0.4,bet 4,1.0,bet 4,1.0
+check,bet 6.5,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 4,-1.0,check,1.0,check,1.0
+check,bet 6,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,raise 57,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 2.5,bet 1.5,-0.3,raise 2.5,1.0,raise 2.5,1.0
+fold,raise 19.0,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 23,bet 11,0.1,bet 23,1.0,bet 23,1.0
+fold,fold,1.0,fold,1.0,call,-1.0
+check,call,-0.3,check,1.0,bet 18,-1.0
+check,bet 16,-1.0,check,1.0,bet 34,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 35,call,-1.0,raise 35,1.0,raise 35,1.0
+call,call,1.0,fold,-1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,raise 26,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 73,call,-1.0,fold,-1.0,call,-1.0
+bet 34,bet 16,0.1,bet 34,1.0,bet 34,1.0
+raise 92,call,-1.0,raise 92,1.0,raise 92,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 14.0,call,-1.0,raise 14.0,1.0,fold,-1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,check,-1.0
+check,bet 1.0,-1.0,check,1.0,check,1.0
+fold,fold,1.0,call,-1.0,fold,1.0
+raise 21.0,call,-1.0,raise 21.0,1.0,raise 21.0,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+bet 12,call,-1.0,bet 12,1.0,bet 12,1.0
+bet 13,call,-1.0,bet 13,1.0,bet 13,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,call,-0.3,raise 5.0,-1.0,check,1.0
+bet 11,bet 5,0.1,bet 11,1.0,bet 11,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 8,bet 2.0,0.1,bet 8,1.0,bet 8,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 86,call,-1.0,raise 86,1.0,raise 86,1.0
+raise 93,call,-1.0,raise 93,1.0,raise 93,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+call,fold,-1.0,fold,-1.0,fold,-1.0
+check,bet 2.5,-1.0,check,1.0,check,1.0
+bet 29,raise 17,-0.3,check,-1.0,check,-1.0
+check,bet 2,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 3.0,-1.0,check,1.0,check,1.0
+bet 18,bet 7.5,0.1,bet 18,1.0,bet 18,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 86,call,-1.0,raise 86,1.0,raise 37,0.1
+call,fold,-1.0,fold,-1.0,call,1.0
+bet 11,call,-1.0,bet 11,1.0,check,-1.0
+call,call,1.0,call,1.0,call,1.0
+check,check,1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,fold,-1.0,call,1.0,call,1.0
+fold,fold,1.0,call,-1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+raise 82,call,-1.0,raise 82,1.0,raise 82,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+call,fold,-1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,fold,-1.0,call,1.0,call,1.0
+bet 5,bet 2.0,0.1,bet 5,1.0,bet 5,1.0
+raise 32,call,-1.0,raise 32,1.0,raise 32,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 17,bet 8,0.1,check,-1.0,check,-1.0
+call,call,1.0,raise 86,-1.0,raise 37,-1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 17,bet 8,0.1,check,-1.0,check,-1.0
+check,call,-0.3,bet 17,-1.0,bet 17,-1.0
+raise 2.0,check,-1.0,raise 2.0,1.0,raise 2.0,1.0
+call,fold,-1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 10.0,call,-1.0,raise 10.0,1.0,call,-1.0
+check,bet 2,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+bet 17,call,-1.0,bet 17,1.0,bet 17,1.0
+call,fold,-1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 3.0,raise 1,0.1,raise 3.0,1.0,raise 3.0,1.0
+raise 38,call,-1.0,raise 38,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,fold,-1.0,call,1.0,raise 48,-1.0
+raise 88,call,-1.0,raise 88,1.0,raise 88,1.0
+fold,call,-1.0,fold,1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+raise 80,call,-1.0,raise 80,1.0,raise 80,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+raise 38,fold,-1.0,fold,-1.0,fold,-1.0
+raise 35,call,-1.0,call,-1.0,raise 35,1.0
+bet 8,bet 3.0,0.1,check,-1.0,check,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 83,call,-1.0,raise 83,1.0,raise 83,1.0
+call,raise 37,-1.0,raise 83,-1.0,raise 83,-1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,raise 88,-1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 7,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 73,call,-1.0,raise 73,1.0,check,-1.0
+raise 13,fold,-1.0,raise 13,1.0,fold,-1.0
+bet 25,bet 10,0.1,check,-1.0,check,-1.0
+raise 37,call,-1.0,raise 37,1.0,raise 37,1.0
+check,bet 2.0,-1.0,check,1.0,check,1.0
+raise 10,call,-1.0,raise 10,1.0,raise 10,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 11,-1.0,check,1.0,check,1.0
+bet 10,bet 4,0.1,check,-1.0,check,-1.0
+check,bet 6,-1.0,check,1.0,check,1.0
+raise 88,fold,-1.0,raise 88,1.0,fold,-1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 10,bet 4,0.1,bet 10,1.0,bet 10,1.0
+raise 92,call,-1.0,raise 92,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 13.0,raise 2.0,0.1,raise 13.0,1.0,raise 13.0,1.0
+raise 22,call,-1.0,raise 22,1.0,raise 22,1.0
+check,call,-0.3,raise 5.0,-1.0,check,1.0
+check,bet 2.5,-1.0,check,1.0,check,1.0
+check,bet 7,-1.0,check,1.0,check,1.0
+check,bet 2.3,-1.0,check,1.0,check,1.0
+call,fold,-1.0,call,1.0,call,1.0
+check,raise 16,-1.0,check,1.0,check,1.0
+raise 45,fold,-1.0,call,-1.0,call,-1.0
+bet 16,bet 8,0.4,check,-1.0,check,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 5.0,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,bet 17,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 2.3,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 12,-1.0,check,1.0,check,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 13,call,-1.0,raise 13,1.0,raise 13,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 29,call,-1.0,bet 29,1.0,bet 29,1.0
+raise 17,call,-1.0,raise 17,1.0,raise 17,1.0
+bet 17,bet 8,0.1,bet 17,1.0,bet 17,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 5.0,raise 2.0,0.1,raise 3.0,0.4,raise 3.0,0.4
+check,bet 2.3,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,bet 10,-1.0,bet 10,-1.0
+bet 29,bet 17,0.4,bet 29,1.0,bet 29,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 6,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 74,fold,-1.0,raise 74,1.0,raise 74,1.0
+check,bet 2,-1.0,check,1.0,check,1.0
+check,check,1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,raise 79,-1.0,call,-1.0
+fold,call,-1.0,fold,1.0,call,-1.0
+check,call,-0.3,check,1.0,check,1.0
+check,bet 5,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 29,call,-1.0,bet 29,1.0,bet 29,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 84,call,-1.0,raise 84,1.0,raise 84,1.0
+call,call,1.0,call,1.0,call,1.0
+call,fold,-1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 77,raise 56,0.4,raise 77,1.0,raise 77,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 89,call,-1.0,raise 89,1.0,raise 89,1.0
+bet 29,bet 17,0.4,bet 29,1.0,check,-1.0
+raise 58,call,-1.0,raise 58,1.0,raise 58,1.0
+fold,fold,1.0,call,-1.0,fold,1.0
+call,call,1.0,call,1.0,fold,-1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,raise 13.1,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+raise 17,fold,-1.0,call,-1.0,call,-1.0
+call,call,1.0,raise 13,-1.0,raise 13,-1.0
+bet 17,bet 7,0.1,bet 17,1.0,check,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,call,-1.0,call,-1.0
+check,bet 2,-1.0,check,1.0,check,1.0
+call,call,1.0,raise 16,-1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 95,fold,-1.0,call,-1.0,call,-1.0
+check,call,-0.3,check,1.0,check,1.0
+raise 84,call,-1.0,raise 84,1.0,raise 84,1.0
+check,call,-0.3,check,1.0,check,1.0
+raise 16,call,-1.0,call,-1.0,call,-1.0
+check,bet 3.0,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+call,fold,-1.0,call,1.0,call,1.0
+check,bet 5,-1.0,check,1.0,check,1.0
+check,bet 2.3,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 6,-1.0,check,1.0,check,1.0
+raise 77,call,-1.0,raise 77,1.0,raise 77,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,raise 23,-1.0,check,1.0,check,1.0
+call,call,1.0,fold,-1.0,fold,-1.0
+call,call,1.0,call,1.0,call,1.0
+raise 7,call,-1.0,raise 7,1.0,raise 7,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 83,call,-1.0,raise 83,1.0,raise 44,0.4
+call,fold,-1.0,call,1.0,call,1.0
+raise 16,fold,-1.0,raise 16,1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,check,-1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 11,bet 1.0,0.1,bet 11,1.0,bet 11,1.0
+raise 13,call,-1.0,raise 13,1.0,raise 13,1.0
+check,bet 5,-1.0,check,1.0,check,1.0
+raise 90,call,-1.0,raise 90,1.0,raise 90,1.0
+raise 3.0,raise 1,0.1,raise 3.0,1.0,raise 3.0,1.0
+check,bet 1.0,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+check,bet 10,-1.0,bet 24,-1.0,bet 24,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 32,call,-1.0,raise 32,1.0,raise 32,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 3,check,-1.0,check,-1.0,bet 3,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,bet 2.5,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 18,call,-1.0,call,-1.0,call,-1.0
+check,bet 13,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 83,raise 20,0.1,raise 83,1.0,raise 44,0.4
+raise 11.0,call,-1.0,raise 11.0,1.0,raise 11.0,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,raise 23,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,fold,-1.0
+raise 25,call,-1.0,raise 25,1.0,call,-1.0
+check,bet 19,-1.0,raise 73,-1.0,bet 32,-1.0
+check,call,-0.3,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 1.5,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,raise 17,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+raise 24.3,call,-1.0,raise 24.3,1.0,raise 24.3,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 6.5,-1.0,check,1.0,check,1.0
+bet 4,bet 2.3,0.4,bet 4,1.0,check,-1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,check,1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+raise 16,call,-1.0,raise 16,1.0,call,-1.0
+call,call,1.0,raise 95,-1.0,raise 95,-1.0
+check,bet 16,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 87,fold,-1.0,raise 87,1.0,fold,-1.0
+check,bet 4,-1.0,check,1.0,check,1.0
+bet 24,bet 10,0.1,bet 24,1.0,check,-1.0
+raise 16,call,-1.0,call,-1.0,call,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 13,-1.0,check,1.0,check,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 90,fold,-1.0,raise 90,1.0,raise 90,1.0
+raise 88,fold,-1.0,raise 88,1.0,raise 88,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 29,call,-1.0,bet 29,1.0,bet 29,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,fold,-1.0,call,1.0,call,1.0
+raise 86,call,-1.0,call,-1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 2.0,-1.0,check,1.0,check,1.0
+bet 18,call,-1.0,bet 18,1.0,bet 18,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 23,bet 11,0.1,bet 23,1.0,bet 23,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+bet 4,bet 1.0,0.1,check,-1.0,bet 4,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,bet 4,-1.0,check,1.0,check,1.0
+bet 4,bet 1.0,0.1,bet 4,1.0,bet 4,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+check,raise 8,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 89,fold,-1.0,raise 89,1.0,raise 89,1.0
+bet 5,call,-1.0,check,-1.0,check,-1.0
+raise 89,call,-1.0,raise 89,1.0,raise 89,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 17,bet 8,0.1,bet 17,1.0,bet 17,1.0
+raise 10,call,-1.0,raise 10,1.0,raise 10,1.0
+check,bet 11,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 22.9,raise 6.5,0.1,raise 22.9,1.0,raise 22.9,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,bet 12,-1.0
+raise 85,call,-1.0,raise 85,1.0,fold,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+fold,raise 30,-1.0,fold,1.0,fold,1.0
+check,bet 7,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,call,-1.0
+call,call,1.0,fold,-1.0,fold,-1.0
+raise 74,call,-1.0,raise 74,1.0,call,-1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,raise 16,-1.0,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+raise 85,call,-1.0,raise 85,1.0,raise 85,1.0
+raise 92,fold,-1.0,raise 92,1.0,raise 92,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 10,call,-1.0,raise 10,1.0,call,-1.0
+check,bet 2.5,-1.0,bet 7,-1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 32,call,-1.0,call,-1.0,call,-1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,fold,-1.0
+check,raise 16,-1.0,check,1.0,check,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+check,bet 2,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 4,-1.0,check,1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,check,1.0
+raise 61,bet 10,-0.3,raise 61,1.0,raise 57,1.0
+check,call,-0.3,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+bet 7,bet 2.5,0.1,check,-1.0,check,-1.0
+raise 11.5,call,-1.0,raise 11.5,1.0,raise 11.5,1.0
+check,bet 3.0,-1.0,check,1.0,check,1.0
+check,bet 8,-1.0,check,1.0,bet 17,-1.0
+raise 8,call,-1.0,call,-1.0,call,-1.0
+raise 14.0,raise 4.0,0.1,raise 14.0,1.0,raise 14.0,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 22,call,-1.0,raise 22,1.0,raise 22,1.0
+call,call,1.0,call,1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,raise 93,-1.0,call,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 89,call,-1.0,fold,-1.0,fold,-1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+raise 92,call,-1.0,raise 92,1.0,raise 92,1.0
+fold,fold,1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 10,call,-1.0,raise 10,1.0,raise 10,1.0
+call,call,1.0,call,1.0,call,1.0
+raise 84,raise 130,0.1,raise 84,1.0,raise 84,1.0
+raise 92,call,-1.0,raise 92,1.0,fold,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+call,call,1.0,call,1.0,call,1.0
+call,call,1.0,call,1.0,call,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,call,-0.3,check,1.0,check,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+fold,call,-1.0,call,-1.0,call,-1.0
+bet 18,raise 10,-0.3,bet 18,1.0,bet 18,1.0
+check,bet 3,-1.0,check,1.0,check,1.0
+check,bet 10,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 3.0,-1.0,check,1.0,check,1.0
+call,call,1.0,call,1.0,call,1.0
+check,bet 8,-1.0,check,1.0,check,1.0
+check,bet 2.0,-1.0,bet 8,-1.0,check,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+check,call,-0.3,check,1.0,bet 13,-1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+fold,call,-1.0,fold,1.0,fold,1.0
+raise 90,call,-1.0,raise 90,1.0,raise 90,1.0
+call,call,1.0,call,1.0,call,1.0
