@@ -1,6 +1,9 @@
 data/
 !data/evaluation_results.csv
 models/
+GRPO_checkpoint/
+.claude/
+claude_readme.md
 .cache/
 .ipynb_checkpoints/
 wandb/
