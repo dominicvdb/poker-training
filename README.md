@@ -115,9 +115,9 @@ conda activate poker
 pytest tests/ -v --cov=src
 
 # Training notebooks are in notebooks/ — designed for Kaggle/Colab/Vast.ai.
+```
 
 > **Note:** The training notebooks were developed across multiple compute environments (Kaggle, Google Colab, Vast.ai) and may require adjustments to paths, package installs, or runtime settings depending on your platform.
-```
 
 ## References
 
